@@ -176,3 +176,5 @@ Clone the repository
 Open the notebook in Google Colab or Jupyter
 
 Run cells sequentially from data preparation to evaluation
+
+would love to have more contributions to this project, PRs are encouraged!.
